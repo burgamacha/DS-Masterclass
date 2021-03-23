@@ -16,11 +16,7 @@
 
 These materials are for my General Assembly Data Science masterclass. This is usually 6-8hrs in a weekend, and intended to get folks' feet wet with thinking about code+math. 
 
-The masterclass uses Google collab to get around the annoying 
-
-## Usage
-
-This script is for monitoring the appointment website without clicking refresh 1Billion times. It is not going to automatically book for you. And if you fork this and create an automated booking applet, I will personally send 1000 adolscent, chewing puppies to your house. And nobody wants that.  Speaking of contributing...
+The masterclass uses Google collab to get around the annoying local install of Conda, etc. If you want to work through these resources on your own, you'll need to either download the Anaconda distribution or set up Collab in your google drive. 
 
 ## Contributing
 
